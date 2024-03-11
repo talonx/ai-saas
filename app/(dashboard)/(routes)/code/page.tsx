@@ -121,7 +121,7 @@ const CodePage = () => {
                                                     <pre {...props} />
                                                 </div>
                                             ),
-                                            code: ({Node, ...props}) => (
+                                            code: ({node, ...props}) => (
                                                 <code className="bg-black/10 rounded-lg p-1" {...props} />
                                             )
                                         }
