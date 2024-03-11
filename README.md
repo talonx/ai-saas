@@ -1,3 +1,10 @@
+This is based on https://www.youtube.com/watch?v=ffJ38dBzrlY
+
+It incorporates the changes in the OpenAI API since the video was published. It's a work in progress.
+
+Purpose : Personal learning.
+
+---------------------------
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
