@@ -51,7 +51,7 @@ const ConversationPage = () => {
             //TODO open pro modal
             console.log("Error in submitting", error);
         } finally {
-            router.refresh();
+            router.refresh();//rehydrates all server components - e.g. API usage counter
         }
     }
 
