@@ -9,7 +9,8 @@ import { Zap } from "lucide-react";
 import { useProModal } from "@/hooks/use-pro-modal";
 
 interface FreeCounterProps {
-    apiLimitCount: number,
+    apiLimitCount: number;
+    isPro: boolean;
 }
 
 export const FreeCounter = ({
